@@ -1,12 +1,14 @@
 # MAFIA REMAKE EN UNITY
 
 Alberto Ballester
+
 Recreating the first Mafia game as a learning project
 
 ## About the Project
 
 This is a personal Youtube project where I'm recreating the first Mafia game in Unity as a technical exercise.
 The goal is not to make a commercial remake.
+
 The goal is to:
 - Understand how classic game systems were built
 - Recreate mechanics from scratch
