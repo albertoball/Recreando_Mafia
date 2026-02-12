@@ -1,6 +1,6 @@
 # MAFIA REMAKE EN UNITY
 
-Alberto Ballester
+*Alberto Ballester*
 
 Recreating the first Mafia game as a learning project
 
@@ -28,6 +28,8 @@ This repository is connected to a Youtube series where I document:
 - Implementation challenges
 - Mistakes
 - What I would do differently
+
+Youtube Channel: https://www.youtube.com/@albertoballesterdev
 
 ## Disclaimer
 
