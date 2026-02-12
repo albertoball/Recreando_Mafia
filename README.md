@@ -48,7 +48,7 @@ You are free to:
 
 If you build something interesting from it, I'd genuinely like to see it.
 
-## Engine Versiion
+## Engine Version
 
 Unity: 6.000.0.59f
 
