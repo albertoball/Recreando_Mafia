@@ -1,0 +1,721 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: HoldWeaponAvatar
+  m_Mask: 00000000000000000100000000000000000000000100000001000000010000000100000000000000000000000000000000000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: 00000004
+    m_Weight: 1
+  - m_Path: 00000004.001
+    m_Weight: 1
+  - m_Path: 00000004.002
+    m_Weight: 1
+  - m_Path: 00000007
+    m_Weight: 1
+  - m_Path: 00000008
+    m_Weight: 1
+  - m_Path: 00000009
+    m_Weight: 1
+  - m_Path: Tommy Angelo
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_4D
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_4D/bone_4D_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_4D/bone_4D_end/bone_4D_end_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_4E
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_4E/bone_4F
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_4E/bone_4F/bone_4F_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_4E/bone_4F/bone_4F_end/bone_4F_end_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_4E/bone_50
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_4E/bone_50/bone_50_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_4E/bone_50/bone_50_end/bone_50_end_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_06
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_06/bone_07
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_06/bone_07/bone_08
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_06/bone_07/bone_08/bone_09
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_06/bone_07/bone_08/bone_09/bone_0A
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_06/bone_07/bone_08/bone_09/bone_0A/bone_0B
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_06/bone_07/bone_08/bone_09/bone_0A/bone_0B/bone_0C
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_06/bone_07/bone_08/bone_09/bone_0A/bone_0B/bone_0C/bone_0D
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_06/bone_07/bone_08/bone_09/bone_0A/bone_0B/bone_0C/bone_0D/bone_0D_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_06/bone_07/bone_08/bone_09/bone_0A/bone_0B/bone_0C/bone_0D/bone_0D_end/bone_0D_end_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_06/bone_07/bone_08/bone_09/bone_0E
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_06/bone_07/bone_08/bone_09/bone_0E/bone_0F
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_06/bone_07/bone_08/bone_09/bone_0E/bone_0F/bone_10
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_06/bone_07/bone_08/bone_09/bone_0E/bone_0F/bone_10/bone_11
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_06/bone_07/bone_08/bone_09/bone_0E/bone_0F/bone_10/bone_11/bone_11_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_06/bone_07/bone_08/bone_09/bone_0E/bone_0F/bone_10/bone_11/bone_11_end/bone_11_end_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_06/bone_07/bone_08/bone_09/bone_1A
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_06/bone_07/bone_08/bone_09/bone_1A/bone_1B
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_06/bone_07/bone_08/bone_09/bone_1A/bone_1B/bone_1C
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_06/bone_07/bone_08/bone_09/bone_1A/bone_1B/bone_1C/bone_1D
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_06/bone_07/bone_08/bone_09/bone_1A/bone_1B/bone_1C/bone_1D/bone_1D_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_06/bone_07/bone_08/bone_09/bone_1A/bone_1B/bone_1C/bone_1D/bone_1D_end/bone_1D_end_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_06/bone_07/bone_08/bone_09/bone_1E
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_06/bone_07/bone_08/bone_09/bone_1E/bone_1E_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_06/bone_07/bone_08/bone_09/bone_1E/bone_1E_end/bone_1E_end_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_06/bone_07/bone_08/bone_09/bone_1F
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_06/bone_07/bone_08/bone_09/bone_1F/bone_1F_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_06/bone_07/bone_08/bone_09/bone_1F/bone_1F_end/bone_1F_end_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_06/bone_07/bone_08/bone_09/bone_12
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_06/bone_07/bone_08/bone_09/bone_12/bone_13
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_06/bone_07/bone_08/bone_09/bone_12/bone_13/bone_14
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_06/bone_07/bone_08/bone_09/bone_12/bone_13/bone_14/bone_15
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_06/bone_07/bone_08/bone_09/bone_12/bone_13/bone_14/bone_15/bone_15_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_06/bone_07/bone_08/bone_09/bone_12/bone_13/bone_14/bone_15/bone_15_end/bone_15_end_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_06/bone_07/bone_08/bone_09/bone_16
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_06/bone_07/bone_08/bone_09/bone_16/bone_17
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_06/bone_07/bone_08/bone_09/bone_16/bone_17/bone_18
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_06/bone_07/bone_08/bone_09/bone_16/bone_17/bone_18/bone_19
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_06/bone_07/bone_08/bone_09/bone_16/bone_17/bone_18/bone_19/bone_19_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_06/bone_07/bone_08/bone_09/bone_16/bone_17/bone_18/bone_19/bone_19_end/bone_19_end_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_06/bone_07/bone_08/bone_20
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_06/bone_07/bone_08/bone_20/bone_20_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_06/bone_07/bone_08/bone_20/bone_20_end/bone_20_end_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_06/bone_07/bone_08/bone_21
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_06/bone_07/bone_08/bone_21/bone_21_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_06/bone_07/bone_08/bone_21/bone_21_end/bone_21_end_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_06/bone_07/bone_22
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_06/bone_07/bone_22/bone_22_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_06/bone_07/bone_22/bone_22_end/bone_22_end_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_06/bone_07/bone_23
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_06/bone_07/bone_23/bone_23_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_06/bone_07/bone_23/bone_23_end/bone_23_end_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_24
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_24/bone_25
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_24/bone_25/bone_26
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_24/bone_25/bone_26/bone_3E
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_24/bone_25/bone_26/bone_3E/bone_3E_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_24/bone_25/bone_26/bone_3E/bone_3E_end/bone_3E_end_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_24/bone_25/bone_26/bone_3F
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_24/bone_25/bone_26/bone_3F/bone_3F_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_24/bone_25/bone_26/bone_3F/bone_3F_end/bone_3F_end_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_24/bone_25/bone_26/bone_27
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_24/bone_25/bone_26/bone_27/bone_2C
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_24/bone_25/bone_26/bone_27/bone_2C/bone_2D
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_24/bone_25/bone_26/bone_27/bone_2C/bone_2D/bone_2E
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_24/bone_25/bone_26/bone_27/bone_2C/bone_2D/bone_2E/bone_2F
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_24/bone_25/bone_26/bone_27/bone_2C/bone_2D/bone_2E/bone_2F/bone_2F_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_24/bone_25/bone_26/bone_27/bone_2C/bone_2D/bone_2E/bone_2F/bone_2F_end/bone_2F_end_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_24/bone_25/bone_26/bone_27/bone_3C
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_24/bone_25/bone_26/bone_27/bone_3C/bone_3C_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_24/bone_25/bone_26/bone_27/bone_3C/bone_3C_end/bone_3C_end_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_24/bone_25/bone_26/bone_27/bone_3D
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_24/bone_25/bone_26/bone_27/bone_3D/bone_3D_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_24/bone_25/bone_26/bone_27/bone_3D/bone_3D_end/bone_3D_end_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_24/bone_25/bone_26/bone_27/bone_28
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_24/bone_25/bone_26/bone_27/bone_28/bone_29
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_24/bone_25/bone_26/bone_27/bone_28/bone_29/bone_2A
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_24/bone_25/bone_26/bone_27/bone_28/bone_29/bone_2A/bone_2B
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_24/bone_25/bone_26/bone_27/bone_28/bone_29/bone_2A/bone_2B/bone_2B_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_24/bone_25/bone_26/bone_27/bone_28/bone_29/bone_2A/bone_2B/bone_2B_end/bone_2B_end_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_24/bone_25/bone_26/bone_27/bone_30
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_24/bone_25/bone_26/bone_27/bone_30/bone_31
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_24/bone_25/bone_26/bone_27/bone_30/bone_31/bone_32
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_24/bone_25/bone_26/bone_27/bone_30/bone_31/bone_32/bone_33
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_24/bone_25/bone_26/bone_27/bone_30/bone_31/bone_32/bone_33/bone_33_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_24/bone_25/bone_26/bone_27/bone_30/bone_31/bone_32/bone_33/bone_33_end/bone_33_end_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_24/bone_25/bone_26/bone_27/bone_34
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_24/bone_25/bone_26/bone_27/bone_34/bone_35
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_24/bone_25/bone_26/bone_27/bone_34/bone_35/bone_36
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_24/bone_25/bone_26/bone_27/bone_34/bone_35/bone_36/bone_37
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_24/bone_25/bone_26/bone_27/bone_34/bone_35/bone_36/bone_37/bone_37_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_24/bone_25/bone_26/bone_27/bone_34/bone_35/bone_36/bone_37/bone_37_end/bone_37_end_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_24/bone_25/bone_26/bone_27/bone_38
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_24/bone_25/bone_26/bone_27/bone_38/bone_39
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_24/bone_25/bone_26/bone_27/bone_38/bone_39/bone_3A
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_24/bone_25/bone_26/bone_27/bone_38/bone_39/bone_3A/bone_3B
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_24/bone_25/bone_26/bone_27/bone_38/bone_39/bone_3A/bone_3B/bone_3B_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_24/bone_25/bone_26/bone_27/bone_38/bone_39/bone_3A/bone_3B/bone_3B_end/bone_3B_end_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_24/bone_25/bone_40
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_24/bone_25/bone_40/bone_40_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_24/bone_25/bone_40/bone_40_end/bone_40_end_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_24/bone_25/bone_41
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_24/bone_25/bone_41/bone_41_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_24/bone_25/bone_41/bone_41_end/bone_41_end_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_42
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_42/bone_43
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_42/bone_43/bone_44
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_42/bone_43/bone_44/bone_4B
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_42/bone_43/bone_44/bone_4B/bone_4C
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_42/bone_43/bone_44/bone_4B/bone_4C/bone_4C_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_42/bone_43/bone_44/bone_4B/bone_4C/bone_4C_end/bone_4C_end_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_42/bone_43/bone_44/bone_45
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_42/bone_43/bone_44/bone_45/bone_45_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_42/bone_43/bone_44/bone_45/bone_45_end/bone_45_end_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_42/bone_43/bone_44/bone_46
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_42/bone_43/bone_44/bone_46/bone_46_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_42/bone_43/bone_44/bone_46/bone_46_end/bone_46_end_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_42/bone_43/bone_44/bone_47
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_42/bone_43/bone_44/bone_47/bone_48
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_42/bone_43/bone_44/bone_47/bone_48/bone_48_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_42/bone_43/bone_44/bone_47/bone_48/bone_48_end/bone_48_end_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_42/bone_43/bone_44/bone_49
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_42/bone_43/bone_44/bone_49/bone_4A
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_42/bone_43/bone_44/bone_49/bone_4A/bone_4A_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_02/bone_03/bone_04/bone_05/bone_42/bone_43/bone_44/bone_49/bone_4A/bone_4A_end/bone_4A_end_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_51
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_51/bone_52
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_51/bone_52/bone_53
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_51/bone_52/bone_53/bone_54
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_51/bone_52/bone_53/bone_54/bone_55
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_51/bone_52/bone_53/bone_54/bone_55/bone_55_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_51/bone_52/bone_53/bone_54/bone_55/bone_55_end/bone_55_end_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_51/bone_52/bone_53/bone_56
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_51/bone_52/bone_53/bone_56/bone_56_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_51/bone_52/bone_53/bone_56/bone_56_end/bone_56_end_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_51/bone_52/bone_57
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_51/bone_52/bone_57/bone_57_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_51/bone_52/bone_57/bone_57_end/bone_57_end_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_51/bone_52/bone_58
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_51/bone_52/bone_58/bone_58_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_51/bone_52/bone_58/bone_58_end/bone_58_end_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_51/bone_59
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_51/bone_59/bone_5A
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_51/bone_59/bone_5A/bone_5B
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_51/bone_59/bone_5A/bone_5B/bone_5C
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_51/bone_59/bone_5A/bone_5B/bone_5C/bone_5C_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_51/bone_59/bone_5A/bone_5B/bone_5C/bone_5C_end/bone_5C_end_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_51/bone_59/bone_5A/bone_5D
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_51/bone_59/bone_5A/bone_5D/bone_5D_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_51/bone_59/bone_5A/bone_5D/bone_5D_end/bone_5D_end_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_51/bone_59/bone_5E
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_51/bone_59/bone_5E/bone_5E_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_51/bone_59/bone_5E/bone_5E_end/bone_5E_end_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_51/bone_59/bone_5F
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_51/bone_59/bone_5F/bone_5F_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_51/bone_59/bone_5F/bone_5F_end/bone_5F_end_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_51/bone_60
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_51/bone_60/bone_61
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_51/bone_60/bone_61/bone_61_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_51/bone_60/bone_61/bone_61_end/bone_61_end_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_51/bone_62
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_51/bone_62/bone_63
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_51/bone_62/bone_63/bone_63_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_01/bone_51/bone_62/bone_63/bone_63_end/bone_63_end_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8/bone_B9
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8/bone_B9/bone_BA
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8/bone_B9/bone_BA/bone_BB
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8/bone_B9/bone_BA/bone_BB/bone_BC
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8/bone_B9/bone_BA/bone_BB/bone_BC/bone_BD
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8/bone_B9/bone_BA/bone_BB/bone_BC/bone_BD/bone_BE
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8/bone_B9/bone_BA/bone_BB/bone_BC/bone_BD/bone_BE/bone_BF
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8/bone_B9/bone_BA/bone_BB/bone_BC/bone_BD/bone_BE/bone_BF/bone_C0
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8/bone_B9/bone_BA/bone_BB/bone_BC/bone_BD/bone_BE/bone_BF/bone_C0/bone_C1
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8/bone_B9/bone_BA/bone_BB/bone_BC/bone_BD/bone_BE/bone_BF/bone_C0/bone_C1/bone_C2
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8/bone_B9/bone_BA/bone_BB/bone_BC/bone_BD/bone_BE/bone_BF/bone_C0/bone_C1/bone_C2/bone_C3
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8/bone_B9/bone_BA/bone_BB/bone_BC/bone_BD/bone_BE/bone_BF/bone_C0/bone_C1/bone_C2/bone_C3/bone_C4
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8/bone_B9/bone_BA/bone_BB/bone_BC/bone_BD/bone_BE/bone_BF/bone_C0/bone_C1/bone_C2/bone_C3/bone_C4/bone_C5
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8/bone_B9/bone_BA/bone_BB/bone_BC/bone_BD/bone_BE/bone_BF/bone_C0/bone_C1/bone_C2/bone_C3/bone_C4/bone_C5/bone_C6
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8/bone_B9/bone_BA/bone_BB/bone_BC/bone_BD/bone_BE/bone_BF/bone_C0/bone_C1/bone_C2/bone_C3/bone_C4/bone_C5/bone_C6/bone_C7
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8/bone_B9/bone_BA/bone_BB/bone_BC/bone_BD/bone_BE/bone_BF/bone_C0/bone_C1/bone_C2/bone_C3/bone_C4/bone_C5/bone_C6/bone_C7/bone_C8
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8/bone_B9/bone_BA/bone_BB/bone_BC/bone_BD/bone_BE/bone_BF/bone_C0/bone_C1/bone_C2/bone_C3/bone_C4/bone_C5/bone_C6/bone_C7/bone_C8/bone_C9
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8/bone_B9/bone_BA/bone_BB/bone_BC/bone_BD/bone_BE/bone_BF/bone_C0/bone_C1/bone_C2/bone_C3/bone_C4/bone_C5/bone_C6/bone_C7/bone_C8/bone_C9/bone_CA
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8/bone_B9/bone_BA/bone_BB/bone_BC/bone_BD/bone_BE/bone_BF/bone_C0/bone_C1/bone_C2/bone_C3/bone_C4/bone_C5/bone_C6/bone_C7/bone_C8/bone_C9/bone_CA/bone_CB
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8/bone_B9/bone_BA/bone_BB/bone_BC/bone_BD/bone_BE/bone_BF/bone_C0/bone_C1/bone_C2/bone_C3/bone_C4/bone_C5/bone_C6/bone_C7/bone_C8/bone_C9/bone_CA/bone_CB/bone_CC
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8/bone_B9/bone_BA/bone_BB/bone_BC/bone_BD/bone_BE/bone_BF/bone_C0/bone_C1/bone_C2/bone_C3/bone_C4/bone_C5/bone_C6/bone_C7/bone_C8/bone_C9/bone_CA/bone_CB/bone_CC/bone_CD
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8/bone_B9/bone_BA/bone_BB/bone_BC/bone_BD/bone_BE/bone_BF/bone_C0/bone_C1/bone_C2/bone_C3/bone_C4/bone_C5/bone_C6/bone_C7/bone_C8/bone_C9/bone_CA/bone_CB/bone_CC/bone_CD/bone_CE
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8/bone_B9/bone_BA/bone_BB/bone_BC/bone_BD/bone_BE/bone_BF/bone_C0/bone_C1/bone_C2/bone_C3/bone_C4/bone_C5/bone_C6/bone_C7/bone_C8/bone_C9/bone_CA/bone_CB/bone_CC/bone_CD/bone_CE/bone_CF
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8/bone_B9/bone_BA/bone_BB/bone_BC/bone_BD/bone_BE/bone_BF/bone_C0/bone_C1/bone_C2/bone_C3/bone_C4/bone_C5/bone_C6/bone_C7/bone_C8/bone_C9/bone_CA/bone_CB/bone_CC/bone_CD/bone_CE/bone_CF/bone_D0
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8/bone_B9/bone_BA/bone_BB/bone_BC/bone_BD/bone_BE/bone_BF/bone_C0/bone_C1/bone_C2/bone_C3/bone_C4/bone_C5/bone_C6/bone_C7/bone_C8/bone_C9/bone_CA/bone_CB/bone_CC/bone_CD/bone_CE/bone_CF/bone_D0/bone_D1
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8/bone_B9/bone_BA/bone_BB/bone_BC/bone_BD/bone_BE/bone_BF/bone_C0/bone_C1/bone_C2/bone_C3/bone_C4/bone_C5/bone_C6/bone_C7/bone_C8/bone_C9/bone_CA/bone_CB/bone_CC/bone_CD/bone_CE/bone_CF/bone_D0/bone_D1/bone_D2
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8/bone_B9/bone_BA/bone_BB/bone_BC/bone_BD/bone_BE/bone_BF/bone_C0/bone_C1/bone_C2/bone_C3/bone_C4/bone_C5/bone_C6/bone_C7/bone_C8/bone_C9/bone_CA/bone_CB/bone_CC/bone_CD/bone_CE/bone_CF/bone_D0/bone_D1/bone_D2/bone_D3
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8/bone_B9/bone_BA/bone_BB/bone_BC/bone_BD/bone_BE/bone_BF/bone_C0/bone_C1/bone_C2/bone_C3/bone_C4/bone_C5/bone_C6/bone_C7/bone_C8/bone_C9/bone_CA/bone_CB/bone_CC/bone_CD/bone_CE/bone_CF/bone_D0/bone_D1/bone_D2/bone_D3/bone_D4
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8/bone_B9/bone_BA/bone_BB/bone_BC/bone_BD/bone_BE/bone_BF/bone_C0/bone_C1/bone_C2/bone_C3/bone_C4/bone_C5/bone_C6/bone_C7/bone_C8/bone_C9/bone_CA/bone_CB/bone_CC/bone_CD/bone_CE/bone_CF/bone_D0/bone_D1/bone_D2/bone_D3/bone_D4/bone_D5
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8/bone_B9/bone_BA/bone_BB/bone_BC/bone_BD/bone_BE/bone_BF/bone_C0/bone_C1/bone_C2/bone_C3/bone_C4/bone_C5/bone_C6/bone_C7/bone_C8/bone_C9/bone_CA/bone_CB/bone_CC/bone_CD/bone_CE/bone_CF/bone_D0/bone_D1/bone_D2/bone_D3/bone_D4/bone_D5/bone_D6
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8/bone_B9/bone_BA/bone_BB/bone_BC/bone_BD/bone_BE/bone_BF/bone_C0/bone_C1/bone_C2/bone_C3/bone_C4/bone_C5/bone_C6/bone_C7/bone_C8/bone_C9/bone_CA/bone_CB/bone_CC/bone_CD/bone_CE/bone_CF/bone_D0/bone_D1/bone_D2/bone_D3/bone_D4/bone_D5/bone_D6/bone_D7
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8/bone_B9/bone_BA/bone_BB/bone_BC/bone_BD/bone_BE/bone_BF/bone_C0/bone_C1/bone_C2/bone_C3/bone_C4/bone_C5/bone_C6/bone_C7/bone_C8/bone_C9/bone_CA/bone_CB/bone_CC/bone_CD/bone_CE/bone_CF/bone_D0/bone_D1/bone_D2/bone_D3/bone_D4/bone_D5/bone_D6/bone_D7/bone_D8
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8/bone_B9/bone_BA/bone_BB/bone_BC/bone_BD/bone_BE/bone_BF/bone_C0/bone_C1/bone_C2/bone_C3/bone_C4/bone_C5/bone_C6/bone_C7/bone_C8/bone_C9/bone_CA/bone_CB/bone_CC/bone_CD/bone_CE/bone_CF/bone_D0/bone_D1/bone_D2/bone_D3/bone_D4/bone_D5/bone_D6/bone_D7/bone_D8/bone_D9
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8/bone_B9/bone_BA/bone_BB/bone_BC/bone_BD/bone_BE/bone_BF/bone_C0/bone_C1/bone_C2/bone_C3/bone_C4/bone_C5/bone_C6/bone_C7/bone_C8/bone_C9/bone_CA/bone_CB/bone_CC/bone_CD/bone_CE/bone_CF/bone_D0/bone_D1/bone_D2/bone_D3/bone_D4/bone_D5/bone_D6/bone_D7/bone_D8/bone_D9/bone_DA
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8/bone_B9/bone_BA/bone_BB/bone_BC/bone_BD/bone_BE/bone_BF/bone_C0/bone_C1/bone_C2/bone_C3/bone_C4/bone_C5/bone_C6/bone_C7/bone_C8/bone_C9/bone_CA/bone_CB/bone_CC/bone_CD/bone_CE/bone_CF/bone_D0/bone_D1/bone_D2/bone_D3/bone_D4/bone_D5/bone_D6/bone_D7/bone_D8/bone_D9/bone_DA/bone_DB
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8/bone_B9/bone_BA/bone_BB/bone_BC/bone_BD/bone_BE/bone_BF/bone_C0/bone_C1/bone_C2/bone_C3/bone_C4/bone_C5/bone_C6/bone_C7/bone_C8/bone_C9/bone_CA/bone_CB/bone_CC/bone_CD/bone_CE/bone_CF/bone_D0/bone_D1/bone_D2/bone_D3/bone_D4/bone_D5/bone_D6/bone_D7/bone_D8/bone_D9/bone_DA/bone_DB/bone_DC
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8/bone_B9/bone_BA/bone_BB/bone_BC/bone_BD/bone_BE/bone_BF/bone_C0/bone_C1/bone_C2/bone_C3/bone_C4/bone_C5/bone_C6/bone_C7/bone_C8/bone_C9/bone_CA/bone_CB/bone_CC/bone_CD/bone_CE/bone_CF/bone_D0/bone_D1/bone_D2/bone_D3/bone_D4/bone_D5/bone_D6/bone_D7/bone_D8/bone_D9/bone_DA/bone_DB/bone_DC/bone_DD
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8/bone_B9/bone_BA/bone_BB/bone_BC/bone_BD/bone_BE/bone_BF/bone_C0/bone_C1/bone_C2/bone_C3/bone_C4/bone_C5/bone_C6/bone_C7/bone_C8/bone_C9/bone_CA/bone_CB/bone_CC/bone_CD/bone_CE/bone_CF/bone_D0/bone_D1/bone_D2/bone_D3/bone_D4/bone_D5/bone_D6/bone_D7/bone_D8/bone_D9/bone_DA/bone_DB/bone_DC/bone_DD/bone_DE
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8/bone_B9/bone_BA/bone_BB/bone_BC/bone_BD/bone_BE/bone_BF/bone_C0/bone_C1/bone_C2/bone_C3/bone_C4/bone_C5/bone_C6/bone_C7/bone_C8/bone_C9/bone_CA/bone_CB/bone_CC/bone_CD/bone_CE/bone_CF/bone_D0/bone_D1/bone_D2/bone_D3/bone_D4/bone_D5/bone_D6/bone_D7/bone_D8/bone_D9/bone_DA/bone_DB/bone_DC/bone_DD/bone_DE/bone_DF
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8/bone_B9/bone_BA/bone_BB/bone_BC/bone_BD/bone_BE/bone_BF/bone_C0/bone_C1/bone_C2/bone_C3/bone_C4/bone_C5/bone_C6/bone_C7/bone_C8/bone_C9/bone_CA/bone_CB/bone_CC/bone_CD/bone_CE/bone_CF/bone_D0/bone_D1/bone_D2/bone_D3/bone_D4/bone_D5/bone_D6/bone_D7/bone_D8/bone_D9/bone_DA/bone_DB/bone_DC/bone_DD/bone_DE/bone_DF/bone_E0
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8/bone_B9/bone_BA/bone_BB/bone_BC/bone_BD/bone_BE/bone_BF/bone_C0/bone_C1/bone_C2/bone_C3/bone_C4/bone_C5/bone_C6/bone_C7/bone_C8/bone_C9/bone_CA/bone_CB/bone_CC/bone_CD/bone_CE/bone_CF/bone_D0/bone_D1/bone_D2/bone_D3/bone_D4/bone_D5/bone_D6/bone_D7/bone_D8/bone_D9/bone_DA/bone_DB/bone_DC/bone_DD/bone_DE/bone_DF/bone_E0/bone_E1
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8/bone_B9/bone_BA/bone_BB/bone_BC/bone_BD/bone_BE/bone_BF/bone_C0/bone_C1/bone_C2/bone_C3/bone_C4/bone_C5/bone_C6/bone_C7/bone_C8/bone_C9/bone_CA/bone_CB/bone_CC/bone_CD/bone_CE/bone_CF/bone_D0/bone_D1/bone_D2/bone_D3/bone_D4/bone_D5/bone_D6/bone_D7/bone_D8/bone_D9/bone_DA/bone_DB/bone_DC/bone_DD/bone_DE/bone_DF/bone_E0/bone_E1/bone_E2
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8/bone_B9/bone_BA/bone_BB/bone_BC/bone_BD/bone_BE/bone_BF/bone_C0/bone_C1/bone_C2/bone_C3/bone_C4/bone_C5/bone_C6/bone_C7/bone_C8/bone_C9/bone_CA/bone_CB/bone_CC/bone_CD/bone_CE/bone_CF/bone_D0/bone_D1/bone_D2/bone_D3/bone_D4/bone_D5/bone_D6/bone_D7/bone_D8/bone_D9/bone_DA/bone_DB/bone_DC/bone_DD/bone_DE/bone_DF/bone_E0/bone_E1/bone_E2/bone_E3
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8/bone_B9/bone_BA/bone_BB/bone_BC/bone_BD/bone_BE/bone_BF/bone_C0/bone_C1/bone_C2/bone_C3/bone_C4/bone_C5/bone_C6/bone_C7/bone_C8/bone_C9/bone_CA/bone_CB/bone_CC/bone_CD/bone_CE/bone_CF/bone_D0/bone_D1/bone_D2/bone_D3/bone_D4/bone_D5/bone_D6/bone_D7/bone_D8/bone_D9/bone_DA/bone_DB/bone_DC/bone_DD/bone_DE/bone_DF/bone_E0/bone_E1/bone_E2/bone_E3/bone_E4
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8/bone_B9/bone_BA/bone_BB/bone_BC/bone_BD/bone_BE/bone_BF/bone_C0/bone_C1/bone_C2/bone_C3/bone_C4/bone_C5/bone_C6/bone_C7/bone_C8/bone_C9/bone_CA/bone_CB/bone_CC/bone_CD/bone_CE/bone_CF/bone_D0/bone_D1/bone_D2/bone_D3/bone_D4/bone_D5/bone_D6/bone_D7/bone_D8/bone_D9/bone_DA/bone_DB/bone_DC/bone_DD/bone_DE/bone_DF/bone_E0/bone_E1/bone_E2/bone_E3/bone_E4/bone_E5
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8/bone_B9/bone_BA/bone_BB/bone_BC/bone_BD/bone_BE/bone_BF/bone_C0/bone_C1/bone_C2/bone_C3/bone_C4/bone_C5/bone_C6/bone_C7/bone_C8/bone_C9/bone_CA/bone_CB/bone_CC/bone_CD/bone_CE/bone_CF/bone_D0/bone_D1/bone_D2/bone_D3/bone_D4/bone_D5/bone_D6/bone_D7/bone_D8/bone_D9/bone_DA/bone_DB/bone_DC/bone_DD/bone_DE/bone_DF/bone_E0/bone_E1/bone_E2/bone_E3/bone_E4/bone_E5/bone_E6
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8/bone_B9/bone_BA/bone_BB/bone_BC/bone_BD/bone_BE/bone_BF/bone_C0/bone_C1/bone_C2/bone_C3/bone_C4/bone_C5/bone_C6/bone_C7/bone_C8/bone_C9/bone_CA/bone_CB/bone_CC/bone_CD/bone_CE/bone_CF/bone_D0/bone_D1/bone_D2/bone_D3/bone_D4/bone_D5/bone_D6/bone_D7/bone_D8/bone_D9/bone_DA/bone_DB/bone_DC/bone_DD/bone_DE/bone_DF/bone_E0/bone_E1/bone_E2/bone_E3/bone_E4/bone_E5/bone_E6/bone_E7
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8/bone_B9/bone_BA/bone_BB/bone_BC/bone_BD/bone_BE/bone_BF/bone_C0/bone_C1/bone_C2/bone_C3/bone_C4/bone_C5/bone_C6/bone_C7/bone_C8/bone_C9/bone_CA/bone_CB/bone_CC/bone_CD/bone_CE/bone_CF/bone_D0/bone_D1/bone_D2/bone_D3/bone_D4/bone_D5/bone_D6/bone_D7/bone_D8/bone_D9/bone_DA/bone_DB/bone_DC/bone_DD/bone_DE/bone_DF/bone_E0/bone_E1/bone_E2/bone_E3/bone_E4/bone_E5/bone_E6/bone_E7/bone_E8
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8/bone_B9/bone_BA/bone_BB/bone_BC/bone_BD/bone_BE/bone_BF/bone_C0/bone_C1/bone_C2/bone_C3/bone_C4/bone_C5/bone_C6/bone_C7/bone_C8/bone_C9/bone_CA/bone_CB/bone_CC/bone_CD/bone_CE/bone_CF/bone_D0/bone_D1/bone_D2/bone_D3/bone_D4/bone_D5/bone_D6/bone_D7/bone_D8/bone_D9/bone_DA/bone_DB/bone_DC/bone_DD/bone_DE/bone_DF/bone_E0/bone_E1/bone_E2/bone_E3/bone_E4/bone_E5/bone_E6/bone_E7/bone_E8/bone_E9
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8/bone_B9/bone_BA/bone_BB/bone_BC/bone_BD/bone_BE/bone_BF/bone_C0/bone_C1/bone_C2/bone_C3/bone_C4/bone_C5/bone_C6/bone_C7/bone_C8/bone_C9/bone_CA/bone_CB/bone_CC/bone_CD/bone_CE/bone_CF/bone_D0/bone_D1/bone_D2/bone_D3/bone_D4/bone_D5/bone_D6/bone_D7/bone_D8/bone_D9/bone_DA/bone_DB/bone_DC/bone_DD/bone_DE/bone_DF/bone_E0/bone_E1/bone_E2/bone_E3/bone_E4/bone_E5/bone_E6/bone_E7/bone_E8/bone_E9/bone_EA
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8/bone_B9/bone_BA/bone_BB/bone_BC/bone_BD/bone_BE/bone_BF/bone_C0/bone_C1/bone_C2/bone_C3/bone_C4/bone_C5/bone_C6/bone_C7/bone_C8/bone_C9/bone_CA/bone_CB/bone_CC/bone_CD/bone_CE/bone_CF/bone_D0/bone_D1/bone_D2/bone_D3/bone_D4/bone_D5/bone_D6/bone_D7/bone_D8/bone_D9/bone_DA/bone_DB/bone_DC/bone_DD/bone_DE/bone_DF/bone_E0/bone_E1/bone_E2/bone_E3/bone_E4/bone_E5/bone_E6/bone_E7/bone_E8/bone_E9/bone_EA/bone_EB
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8/bone_B9/bone_BA/bone_BB/bone_BC/bone_BD/bone_BE/bone_BF/bone_C0/bone_C1/bone_C2/bone_C3/bone_C4/bone_C5/bone_C6/bone_C7/bone_C8/bone_C9/bone_CA/bone_CB/bone_CC/bone_CD/bone_CE/bone_CF/bone_D0/bone_D1/bone_D2/bone_D3/bone_D4/bone_D5/bone_D6/bone_D7/bone_D8/bone_D9/bone_DA/bone_DB/bone_DC/bone_DD/bone_DE/bone_DF/bone_E0/bone_E1/bone_E2/bone_E3/bone_E4/bone_E5/bone_E6/bone_E7/bone_E8/bone_E9/bone_EA/bone_EB/bone_EC
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8/bone_B9/bone_BA/bone_BB/bone_BC/bone_BD/bone_BE/bone_BF/bone_C0/bone_C1/bone_C2/bone_C3/bone_C4/bone_C5/bone_C6/bone_C7/bone_C8/bone_C9/bone_CA/bone_CB/bone_CC/bone_CD/bone_CE/bone_CF/bone_D0/bone_D1/bone_D2/bone_D3/bone_D4/bone_D5/bone_D6/bone_D7/bone_D8/bone_D9/bone_DA/bone_DB/bone_DC/bone_DD/bone_DE/bone_DF/bone_E0/bone_E1/bone_E2/bone_E3/bone_E4/bone_E5/bone_E6/bone_E7/bone_E8/bone_E9/bone_EA/bone_EB/bone_EC/bone_ED
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8/bone_B9/bone_BA/bone_BB/bone_BC/bone_BD/bone_BE/bone_BF/bone_C0/bone_C1/bone_C2/bone_C3/bone_C4/bone_C5/bone_C6/bone_C7/bone_C8/bone_C9/bone_CA/bone_CB/bone_CC/bone_CD/bone_CE/bone_CF/bone_D0/bone_D1/bone_D2/bone_D3/bone_D4/bone_D5/bone_D6/bone_D7/bone_D8/bone_D9/bone_DA/bone_DB/bone_DC/bone_DD/bone_DE/bone_DF/bone_E0/bone_E1/bone_E2/bone_E3/bone_E4/bone_E5/bone_E6/bone_E7/bone_E8/bone_E9/bone_EA/bone_EB/bone_EC/bone_ED/bone_EE
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8/bone_B9/bone_BA/bone_BB/bone_BC/bone_BD/bone_BE/bone_BF/bone_C0/bone_C1/bone_C2/bone_C3/bone_C4/bone_C5/bone_C6/bone_C7/bone_C8/bone_C9/bone_CA/bone_CB/bone_CC/bone_CD/bone_CE/bone_CF/bone_D0/bone_D1/bone_D2/bone_D3/bone_D4/bone_D5/bone_D6/bone_D7/bone_D8/bone_D9/bone_DA/bone_DB/bone_DC/bone_DD/bone_DE/bone_DF/bone_E0/bone_E1/bone_E2/bone_E3/bone_E4/bone_E5/bone_E6/bone_E7/bone_E8/bone_E9/bone_EA/bone_EB/bone_EC/bone_ED/bone_EE/bone_EF
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8/bone_B9/bone_BA/bone_BB/bone_BC/bone_BD/bone_BE/bone_BF/bone_C0/bone_C1/bone_C2/bone_C3/bone_C4/bone_C5/bone_C6/bone_C7/bone_C8/bone_C9/bone_CA/bone_CB/bone_CC/bone_CD/bone_CE/bone_CF/bone_D0/bone_D1/bone_D2/bone_D3/bone_D4/bone_D5/bone_D6/bone_D7/bone_D8/bone_D9/bone_DA/bone_DB/bone_DC/bone_DD/bone_DE/bone_DF/bone_E0/bone_E1/bone_E2/bone_E3/bone_E4/bone_E5/bone_E6/bone_E7/bone_E8/bone_E9/bone_EA/bone_EB/bone_EC/bone_ED/bone_EE/bone_EF/bone_F0
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8/bone_B9/bone_BA/bone_BB/bone_BC/bone_BD/bone_BE/bone_BF/bone_C0/bone_C1/bone_C2/bone_C3/bone_C4/bone_C5/bone_C6/bone_C7/bone_C8/bone_C9/bone_CA/bone_CB/bone_CC/bone_CD/bone_CE/bone_CF/bone_D0/bone_D1/bone_D2/bone_D3/bone_D4/bone_D5/bone_D6/bone_D7/bone_D8/bone_D9/bone_DA/bone_DB/bone_DC/bone_DD/bone_DE/bone_DF/bone_E0/bone_E1/bone_E2/bone_E3/bone_E4/bone_E5/bone_E6/bone_E7/bone_E8/bone_E9/bone_EA/bone_EB/bone_EC/bone_ED/bone_EE/bone_EF/bone_F0/bone_F1
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8/bone_B9/bone_BA/bone_BB/bone_BC/bone_BD/bone_BE/bone_BF/bone_C0/bone_C1/bone_C2/bone_C3/bone_C4/bone_C5/bone_C6/bone_C7/bone_C8/bone_C9/bone_CA/bone_CB/bone_CC/bone_CD/bone_CE/bone_CF/bone_D0/bone_D1/bone_D2/bone_D3/bone_D4/bone_D5/bone_D6/bone_D7/bone_D8/bone_D9/bone_DA/bone_DB/bone_DC/bone_DD/bone_DE/bone_DF/bone_E0/bone_E1/bone_E2/bone_E3/bone_E4/bone_E5/bone_E6/bone_E7/bone_E8/bone_E9/bone_EA/bone_EB/bone_EC/bone_ED/bone_EE/bone_EF/bone_F0/bone_F1/bone_F2
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8/bone_B9/bone_BA/bone_BB/bone_BC/bone_BD/bone_BE/bone_BF/bone_C0/bone_C1/bone_C2/bone_C3/bone_C4/bone_C5/bone_C6/bone_C7/bone_C8/bone_C9/bone_CA/bone_CB/bone_CC/bone_CD/bone_CE/bone_CF/bone_D0/bone_D1/bone_D2/bone_D3/bone_D4/bone_D5/bone_D6/bone_D7/bone_D8/bone_D9/bone_DA/bone_DB/bone_DC/bone_DD/bone_DE/bone_DF/bone_E0/bone_E1/bone_E2/bone_E3/bone_E4/bone_E5/bone_E6/bone_E7/bone_E8/bone_E9/bone_EA/bone_EB/bone_EC/bone_ED/bone_EE/bone_EF/bone_F0/bone_F1/bone_F2/bone_F3
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8/bone_B9/bone_BA/bone_BB/bone_BC/bone_BD/bone_BE/bone_BF/bone_C0/bone_C1/bone_C2/bone_C3/bone_C4/bone_C5/bone_C6/bone_C7/bone_C8/bone_C9/bone_CA/bone_CB/bone_CC/bone_CD/bone_CE/bone_CF/bone_D0/bone_D1/bone_D2/bone_D3/bone_D4/bone_D5/bone_D6/bone_D7/bone_D8/bone_D9/bone_DA/bone_DB/bone_DC/bone_DD/bone_DE/bone_DF/bone_E0/bone_E1/bone_E2/bone_E3/bone_E4/bone_E5/bone_E6/bone_E7/bone_E8/bone_E9/bone_EA/bone_EB/bone_EC/bone_ED/bone_EE/bone_EF/bone_F0/bone_F1/bone_F2/bone_F3/bone_F4
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8/bone_B9/bone_BA/bone_BB/bone_BC/bone_BD/bone_BE/bone_BF/bone_C0/bone_C1/bone_C2/bone_C3/bone_C4/bone_C5/bone_C6/bone_C7/bone_C8/bone_C9/bone_CA/bone_CB/bone_CC/bone_CD/bone_CE/bone_CF/bone_D0/bone_D1/bone_D2/bone_D3/bone_D4/bone_D5/bone_D6/bone_D7/bone_D8/bone_D9/bone_DA/bone_DB/bone_DC/bone_DD/bone_DE/bone_DF/bone_E0/bone_E1/bone_E2/bone_E3/bone_E4/bone_E5/bone_E6/bone_E7/bone_E8/bone_E9/bone_EA/bone_EB/bone_EC/bone_ED/bone_EE/bone_EF/bone_F0/bone_F1/bone_F2/bone_F3/bone_F4/bone_F5
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8/bone_B9/bone_BA/bone_BB/bone_BC/bone_BD/bone_BE/bone_BF/bone_C0/bone_C1/bone_C2/bone_C3/bone_C4/bone_C5/bone_C6/bone_C7/bone_C8/bone_C9/bone_CA/bone_CB/bone_CC/bone_CD/bone_CE/bone_CF/bone_D0/bone_D1/bone_D2/bone_D3/bone_D4/bone_D5/bone_D6/bone_D7/bone_D8/bone_D9/bone_DA/bone_DB/bone_DC/bone_DD/bone_DE/bone_DF/bone_E0/bone_E1/bone_E2/bone_E3/bone_E4/bone_E5/bone_E6/bone_E7/bone_E8/bone_E9/bone_EA/bone_EB/bone_EC/bone_ED/bone_EE/bone_EF/bone_F0/bone_F1/bone_F2/bone_F3/bone_F4/bone_F5/bone_F6
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8/bone_B9/bone_BA/bone_BB/bone_BC/bone_BD/bone_BE/bone_BF/bone_C0/bone_C1/bone_C2/bone_C3/bone_C4/bone_C5/bone_C6/bone_C7/bone_C8/bone_C9/bone_CA/bone_CB/bone_CC/bone_CD/bone_CE/bone_CF/bone_D0/bone_D1/bone_D2/bone_D3/bone_D4/bone_D5/bone_D6/bone_D7/bone_D8/bone_D9/bone_DA/bone_DB/bone_DC/bone_DD/bone_DE/bone_DF/bone_E0/bone_E1/bone_E2/bone_E3/bone_E4/bone_E5/bone_E6/bone_E7/bone_E8/bone_E9/bone_EA/bone_EB/bone_EC/bone_ED/bone_EE/bone_EF/bone_F0/bone_F1/bone_F2/bone_F3/bone_F4/bone_F5/bone_F6/bone_F7
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8/bone_B9/bone_BA/bone_BB/bone_BC/bone_BD/bone_BE/bone_BF/bone_C0/bone_C1/bone_C2/bone_C3/bone_C4/bone_C5/bone_C6/bone_C7/bone_C8/bone_C9/bone_CA/bone_CB/bone_CC/bone_CD/bone_CE/bone_CF/bone_D0/bone_D1/bone_D2/bone_D3/bone_D4/bone_D5/bone_D6/bone_D7/bone_D8/bone_D9/bone_DA/bone_DB/bone_DC/bone_DD/bone_DE/bone_DF/bone_E0/bone_E1/bone_E2/bone_E3/bone_E4/bone_E5/bone_E6/bone_E7/bone_E8/bone_E9/bone_EA/bone_EB/bone_EC/bone_ED/bone_EE/bone_EF/bone_F0/bone_F1/bone_F2/bone_F3/bone_F4/bone_F5/bone_F6/bone_F7/bone_F8
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8/bone_B9/bone_BA/bone_BB/bone_BC/bone_BD/bone_BE/bone_BF/bone_C0/bone_C1/bone_C2/bone_C3/bone_C4/bone_C5/bone_C6/bone_C7/bone_C8/bone_C9/bone_CA/bone_CB/bone_CC/bone_CD/bone_CE/bone_CF/bone_D0/bone_D1/bone_D2/bone_D3/bone_D4/bone_D5/bone_D6/bone_D7/bone_D8/bone_D9/bone_DA/bone_DB/bone_DC/bone_DD/bone_DE/bone_DF/bone_E0/bone_E1/bone_E2/bone_E3/bone_E4/bone_E5/bone_E6/bone_E7/bone_E8/bone_E9/bone_EA/bone_EB/bone_EC/bone_ED/bone_EE/bone_EF/bone_F0/bone_F1/bone_F2/bone_F3/bone_F4/bone_F5/bone_F6/bone_F7/bone_F8/bone_F9
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8/bone_B9/bone_BA/bone_BB/bone_BC/bone_BD/bone_BE/bone_BF/bone_C0/bone_C1/bone_C2/bone_C3/bone_C4/bone_C5/bone_C6/bone_C7/bone_C8/bone_C9/bone_CA/bone_CB/bone_CC/bone_CD/bone_CE/bone_CF/bone_D0/bone_D1/bone_D2/bone_D3/bone_D4/bone_D5/bone_D6/bone_D7/bone_D8/bone_D9/bone_DA/bone_DB/bone_DC/bone_DD/bone_DE/bone_DF/bone_E0/bone_E1/bone_E2/bone_E3/bone_E4/bone_E5/bone_E6/bone_E7/bone_E8/bone_E9/bone_EA/bone_EB/bone_EC/bone_ED/bone_EE/bone_EF/bone_F0/bone_F1/bone_F2/bone_F3/bone_F4/bone_F5/bone_F6/bone_F7/bone_F8/bone_F9/bone_FA
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8/bone_B9/bone_BA/bone_BB/bone_BC/bone_BD/bone_BE/bone_BF/bone_C0/bone_C1/bone_C2/bone_C3/bone_C4/bone_C5/bone_C6/bone_C7/bone_C8/bone_C9/bone_CA/bone_CB/bone_CC/bone_CD/bone_CE/bone_CF/bone_D0/bone_D1/bone_D2/bone_D3/bone_D4/bone_D5/bone_D6/bone_D7/bone_D8/bone_D9/bone_DA/bone_DB/bone_DC/bone_DD/bone_DE/bone_DF/bone_E0/bone_E1/bone_E2/bone_E3/bone_E4/bone_E5/bone_E6/bone_E7/bone_E8/bone_E9/bone_EA/bone_EB/bone_EC/bone_ED/bone_EE/bone_EF/bone_F0/bone_F1/bone_F2/bone_F3/bone_F4/bone_F5/bone_F6/bone_F7/bone_F8/bone_F9/bone_FA/bone_FB
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8/bone_B9/bone_BA/bone_BB/bone_BC/bone_BD/bone_BE/bone_BF/bone_C0/bone_C1/bone_C2/bone_C3/bone_C4/bone_C5/bone_C6/bone_C7/bone_C8/bone_C9/bone_CA/bone_CB/bone_CC/bone_CD/bone_CE/bone_CF/bone_D0/bone_D1/bone_D2/bone_D3/bone_D4/bone_D5/bone_D6/bone_D7/bone_D8/bone_D9/bone_DA/bone_DB/bone_DC/bone_DD/bone_DE/bone_DF/bone_E0/bone_E1/bone_E2/bone_E3/bone_E4/bone_E5/bone_E6/bone_E7/bone_E8/bone_E9/bone_EA/bone_EB/bone_EC/bone_ED/bone_EE/bone_EF/bone_F0/bone_F1/bone_F2/bone_F3/bone_F4/bone_F5/bone_F6/bone_F7/bone_F8/bone_F9/bone_FA/bone_FB/bone_FC
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8/bone_B9/bone_BA/bone_BB/bone_BC/bone_BD/bone_BE/bone_BF/bone_C0/bone_C1/bone_C2/bone_C3/bone_C4/bone_C5/bone_C6/bone_C7/bone_C8/bone_C9/bone_CA/bone_CB/bone_CC/bone_CD/bone_CE/bone_CF/bone_D0/bone_D1/bone_D2/bone_D3/bone_D4/bone_D5/bone_D6/bone_D7/bone_D8/bone_D9/bone_DA/bone_DB/bone_DC/bone_DD/bone_DE/bone_DF/bone_E0/bone_E1/bone_E2/bone_E3/bone_E4/bone_E5/bone_E6/bone_E7/bone_E8/bone_E9/bone_EA/bone_EB/bone_EC/bone_ED/bone_EE/bone_EF/bone_F0/bone_F1/bone_F2/bone_F3/bone_F4/bone_F5/bone_F6/bone_F7/bone_F8/bone_F9/bone_FA/bone_FB/bone_FC/bone_FC_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_6A/bone_6B/bone_6C/bone_6D/bone_6E/bone_6F/bone_70/bone_71/bone_72/bone_73/bone_74/bone_75/bone_76/bone_77/bone_78/bone_79/bone_7A/bone_7B/bone_7C/bone_7D/bone_7E/bone_7F/bone_80/bone_81/bone_82/bone_83/bone_84/bone_85/bone_86/bone_87/bone_88/bone_89/bone_8A/bone_8B/bone_8C/bone_8D/bone_8E/bone_8F/bone_90/bone_91/bone_92/bone_93/bone_94/bone_95/bone_96/bone_97/bone_98/bone_99/bone_9A/bone_9B/bone_9C/bone_9D/bone_9E/bone_9F/bone_A0/bone_A1/bone_A2/bone_A3/bone_A4/bone_A5/bone_A6/bone_A7/bone_A8/bone_A9/bone_AA/bone_AB/bone_AC/bone_AD/bone_AE/bone_AF/bone_B0/bone_B1/bone_B2/bone_B3/bone_B4/bone_B5/bone_B6/bone_B7/bone_B8/bone_B9/bone_BA/bone_BB/bone_BC/bone_BD/bone_BE/bone_BF/bone_C0/bone_C1/bone_C2/bone_C3/bone_C4/bone_C5/bone_C6/bone_C7/bone_C8/bone_C9/bone_CA/bone_CB/bone_CC/bone_CD/bone_CE/bone_CF/bone_D0/bone_D1/bone_D2/bone_D3/bone_D4/bone_D5/bone_D6/bone_D7/bone_D8/bone_D9/bone_DA/bone_DB/bone_DC/bone_DD/bone_DE/bone_DF/bone_E0/bone_E1/bone_E2/bone_E3/bone_E4/bone_E5/bone_E6/bone_E7/bone_E8/bone_E9/bone_EA/bone_EB/bone_EC/bone_ED/bone_EE/bone_EF/bone_F0/bone_F1/bone_F2/bone_F3/bone_F4/bone_F5/bone_F6/bone_F7/bone_F8/bone_F9/bone_FA/bone_FB/bone_FC/bone_FC_end/bone_FC_end_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_64
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_64/bone_64_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_64/bone_64_end/bone_64_end_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_65
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_65/bone_65_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_65/bone_65_end/bone_65_end_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_66
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_66/bone_66_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_66/bone_66_end/bone_66_end_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_67
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_67/bone_67_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_67/bone_67_end/bone_67_end_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_68
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_68/bone_68_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_68/bone_68_end/bone_68_end_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_69
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_69/bone_69_end
+    m_Weight: 1
+  - m_Path: Tommy Angelo/bone_00/bone_69/bone_69_end/bone_69_end_end
+    m_Weight: 1

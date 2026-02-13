@@ -13,6 +13,7 @@ public class PlayerMovement : MonoBehaviour
 
     [Header("References")]
     public Transform cameraTransform;
+    private GunWeightManagerLocomotion gunWeightManagerLocomotion;
 
     [Header("Rotation")]
     public float rotationSmoothTime = 0.1f;
@@ -27,6 +28,9 @@ public class PlayerMovement : MonoBehaviour
     public float gravity = -9.81f;
     private float verticalVelocity = 0f;
 
+    public float horizontal;
+    public float vertical;
+
     // Internal state
     private Vector3 moveDirWorld = Vector3.zero;
     private bool hasInput = false;
@@ -36,13 +40,15 @@ public class PlayerMovement : MonoBehaviour
         controller = GetComponent<CharacterController>();
         animator = GetComponent<Animator>();
         animator.applyRootMotion = true;
+
+        gunWeightManagerLocomotion = GetComponent<GunWeightManagerLocomotion>();
     }
 
     private void Update()
     {
         // Read WASD input
-        float horizontal = Input.GetAxisRaw("Horizontal");
-        float vertical = Input.GetAxisRaw("Vertical");
+        horizontal = Input.GetAxisRaw("Horizontal");
+        vertical = Input.GetAxisRaw("Vertical");
 
         Vector3 input = new Vector3(horizontal, 0f, vertical);
         hasInput = input.sqrMagnitude > 0.001f;
@@ -111,6 +117,17 @@ public class PlayerMovement : MonoBehaviour
                 targetBlend = 1f;
             else
                 targetBlend = walkToggled ? 0.5f : 1f;
+        }
+
+
+        // Set the weight of the Rig and Layer Animation depending on what animation is reproducing
+        if (targetBlend == 0f || targetBlend == 0.5f)
+        {
+            gunWeightManagerLocomotion.GetHoldWeaponPose(2, 1, 0.658f);
+        }
+        else
+        {
+            gunWeightManagerLocomotion.GetHoldWeaponPose(2, 0, 0f);
         }
 
         float currentBlend = animator.GetFloat(moveBlendParam);
