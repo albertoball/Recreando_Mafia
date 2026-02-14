@@ -831,8 +831,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 268684910}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.036178794, y: -5.2637738e-17, z: -2.2554767e-18, w: 0.99934536}
-  m_LocalPosition: {x: 2.478738, y: 0.47299993, z: -6.6760674}
+  m_LocalRotation: {x: 0.036451086, y: 0.000000029782521, z: -0.0000000010863271, w: 0.99933547}
+  m_LocalPosition: {x: 2.478738, y: 0.47299993, z: -6.6460676}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -850,7 +850,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 44d70cc20219cd84593f67d248eafe36, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Offset: {x: 0.5, y: 1.54, z: 1.81}
+  Offset: {x: 0.61, y: 1.66, z: 3.43}
   ApplyAfter: 1
   PreserveComposition: 0
 --- !u!114 &268684913
@@ -969,7 +969,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3b5d7c088409d9a40b7b09aa707777f8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TargetOffset: {x: 0, y: -1.96, z: 0}
+  TargetOffset: {x: 0, y: -1.96, z: 0.03}
   TrackerSettings:
     BindingMode: 4
     PositionDamping: {x: 1, y: 1, z: 1}
@@ -1034,7 +1034,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Priority:
     Enabled: 0
-    m_Value: 0
+    m_Value: 10
   OutputChannel: 1
   StandbyUpdate: 2
   m_StreamingVersion: 20241001
@@ -7776,8 +7776,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Priority:
-    Enabled: 0
-    m_Value: 0
+    Enabled: 1
+    m_Value: 10
   OutputChannel: 1
   StandbyUpdate: 2
   m_StreamingVersion: 20241001
@@ -8293,6 +8293,7 @@ GameObject:
   - component: {fileID: 6373426648696133260}
   - component: {fileID: 6373426648696133263}
   - component: {fileID: 6373426648696133262}
+  - component: {fileID: 6373426648696133264}
   m_Layer: 0
   m_Name: Tommy Angelo
   m_TagString: Untagged
@@ -13389,7 +13390,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 421378747393316427}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: daec92e7edd143b419f1cd0e157292ec, type: 3}
   m_Name: 
@@ -13459,7 +13460,22 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rig: {fileID: 1715812113}
-  holdWeapon: 0
+--- !u!114 &6373426648696133264
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 421378747393316427}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0cc7ac202a0177a48912c8b75b31fa87, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cameraTransform: {fileID: 1878342979}
+  animator: {fileID: 6373426648696133259}
+  rotationSpeed: 15
+  gravity: -9.81
 --- !u!23 &6381186043457427308
 MeshRenderer:
   m_ObjectHideFlags: 0

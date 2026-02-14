@@ -28,8 +28,10 @@ public class PlayerMovement : MonoBehaviour
     public float gravity = -9.81f;
     private float verticalVelocity = 0f;
 
-    public float horizontal;
-    public float vertical;
+    [HideInInspector] public float horizontal;
+    [HideInInspector] public float vertical;
+
+
 
     // Internal state
     private Vector3 moveDirWorld = Vector3.zero;
