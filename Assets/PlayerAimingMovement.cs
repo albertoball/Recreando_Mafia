@@ -3,68 +3,76 @@ using UnityEngine;
 [RequireComponent(typeof(CharacterController))]
 public class PlayerAimingMovement : MonoBehaviour
 {
-    public Transform cameraTransform;
     public Animator animator;
 
-    public float rotationSpeed = 15f;
+    [Header("Animator Params")]
+    public string aimXParam = "Aim_Move_X";
+    public string aimYParam = "Aim_Move_Y";
+    public float damp = 0.08f;
+
+    [Header("Gravity")]
     public float gravity = -9.81f;
+    public float groundedStick = -2f;
 
     private CharacterController controller;
-    private float verticalVelocity;
+    private float verticalVel;
 
-    float horizontal;
-    float vertical;
+    private float horizontal;
+    private float vertical;
+    private bool hasInput;
 
     void Awake()
     {
         controller = GetComponent<CharacterController>();
+        if (animator == null) animator = GetComponent<Animator>();
     }
 
     void Update()
     {
+        if (animator == null) return;
+
+        // Input (pots canviar a GetAxisRaw si vols més sec)
         horizontal = Input.GetAxis("Horizontal");
         vertical = Input.GetAxis("Vertical");
 
-        // ROTACIÓ cap a la càmera
-        if (cameraTransform != null)
-        {
-            float targetYaw = cameraTransform.eulerAngles.y;
-            Quaternion targetRot = Quaternion.Euler(0f, targetYaw, 0f);
-            transform.rotation = Quaternion.Lerp(transform.rotation, targetRot, rotationSpeed * Time.deltaTime);
-        }
+        hasInput = (horizontal * horizontal + vertical * vertical) > 0.001f;
 
-        // Anim strafe
-        animator.SetFloat("Aim_Move_X", horizontal, 0.05f, Time.deltaTime);
-        animator.SetFloat("Aim_Move_Y", vertical, 0.05f, Time.deltaTime);
+        // Params del blend tree strafe
+        animator.SetFloat(aimXParam, horizontal, damp, Time.deltaTime);
+        animator.SetFloat(aimYParam, vertical, damp, Time.deltaTime);
 
-        // gravetat
-        if (controller.isGrounded && verticalVelocity < 0f)
-            verticalVelocity = -2f;
+        // Gravity
+        if (controller.isGrounded && verticalVel < 0f)
+            verticalVel = groundedStick;
 
-        verticalVelocity += gravity * Time.deltaTime;
+        verticalVel += gravity * Time.deltaTime;
     }
 
     void OnAnimatorMove()
     {
-        if (!animator.applyRootMotion) return;
+        if (animator == null || !animator.applyRootMotion) return;
 
         Vector3 delta = animator.deltaPosition;
 
-        float mag = new Vector3(delta.x, 0f, delta.z).magnitude;
+        float planarMag = new Vector3(delta.x, 0f, delta.z).magnitude;
 
-        Vector3 cf = cameraTransform.forward;
-        Vector3 cr = cameraTransform.right;
-        cf.y = 0f;
-        cr.y = 0f;
-        cf.Normalize();
-        cr.Normalize();
+        Vector3 dir = Vector3.zero;
 
-        Vector3 dir = (cf * vertical + cr * horizontal);
-        dir = dir.sqrMagnitude > 0.001f ? dir.normalized : transform.forward;
+        if (hasInput)
+        {
+            // Important: com el cos ja gira amb la càmera, forward/right del player serveix perfecte
+            dir = (transform.forward * vertical + transform.right * horizontal);
+            dir.y = 0f;
 
-        Vector3 final = dir * mag;
-        final.y = verticalVelocity * Time.deltaTime;
+            if (dir.sqrMagnitude > 0.0001f)
+                dir.Normalize();
+            else
+                dir = transform.forward;
+        }
 
-        controller.Move(final);
+        Vector3 finalMove = dir * planarMag;
+        finalMove.y = verticalVel * Time.deltaTime;
+
+        controller.Move(finalMove);
     }
 }
